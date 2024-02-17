@@ -1,0 +1,65 @@
+#titulo {
+    background-color: black;
+    color: white;
+    text-shadow: 2px 2px 1px black;
+    padding: 2vh;
+    text-align: center;
+
+}
+
+.tema {
+    padding: 1vh;
+    text-decoration: underline;
+}
+
+#contenido {
+    border: 10px solid black;
+}
+
+#contenido a {
+    text-decoration: none;
+    color: rgb(58, 132, 243);
+    font-weight: bolder;
+}
+
+#caja_1 {
+    margin: 2vh;
+    padding: 3vh;
+    border: 1px solid black;
+    background-color: gainsboro;
+}
+
+#img_nueces {
+    max-width: 40%;
+    border-radius: 2vh;
+    height: auto;
+    
+}
+
+#caja_2 {
+    margin: 2vh;
+    padding: 3vh;
+    border: 1px solid black;
+    background-color: gainsboro;
+}
+
+#img_frutas {
+    max-width: 40%;
+    border-radius: 2vh;
+    height: auto;
+    
+}
+
+#caja_3 {
+    margin: 2vh;
+    padding: 3vh;
+    border: 1px solid black;
+    background-color: gainsboro;
+}
+
+#img_agua {
+    max-width: 40%;
+    border-radius: 2vh;
+    height: auto;
+    
+}
